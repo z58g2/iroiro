@@ -1,0 +1,55 @@
+{
+    "ReverseCategorys": false,
+    "ShowPrivateWorld": false,
+    "Categorys": [
+        {
+            "Category": "シャオンちゃん",
+            "Worlds": [
+                {
+                    "ID": "wrld_fb8d2807-1174-4894-8873-785b4daa1908",
+                    "Name": "シャオンちゃん交流会会場",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "シャオンちゃん試着会兼交流会場・歴代のシャオンちゃんモデルとか三面図とかキャラデザのギャラリーつき 2021⁄08⁄06 Unity2019対応",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }              
+                },
+                {
+                    "ID": "wrld_466b6925-5e0c-4e7d-9e71-2a0c0057ff55",
+                    "Name": "BIG Shaon Avatar",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "大きいシャオンちゃんのワールド！",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                ...
+            ]
+        },
+        {
+            "Category": "サフィーちゃん",
+            "Worlds": [
+                {
+                    "ID": "wrld_d10b24de-be5e-4f94-b21e-bdd3dc3783a1",
+                    "Name": "Sapphy 1st Anniversary 会場",
+                    "RecommendedCapacity": 30,
+                    "Capacity": 60,
+                    "Description": "サフィーちゃん誕生日会、兼、フォトコンテスト掲載Worldです。まだテスト中。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    },
+                },
+                ...
+             ]
+        },
+        ...
+    ]
+}
