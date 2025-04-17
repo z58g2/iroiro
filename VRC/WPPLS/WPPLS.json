@@ -11,28 +11,28 @@
                     "RecommendedCapacity": 20,
                     "Capacity": 40,
                     "Description": "Mirror world in a 1KB fileǃ 5⁄19˸ ios support․ Contributors˸ Lyuma‚ Table‚ Lamp",
-                    "ReleaseStatus": "private",
+                    "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
                         "Android": true
                     }              
                 },
                 {
-                    "ID": "wrld_466b6925-5e0c-4e7d-9e71-2a0c0057ff55",
-                    "Name": "BIG Shaon Avatar",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "大きいシャオンちゃんのワールド！",
+                    "ID": "wrld_88524b47-aedc-4bf1-900b-b0d1c5d670ea",
+                    "Name": "QDevWorld",
+                    "RecommendedCapacity": 1,
+                    "Capacity": 1,
+                    "Description": "quest development world",
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
-                        "Android": false
+                        "Android": true
                     }
                 },
             ]
         },
         {
-            "Category": "サフィーちゃん",
+            "Category": "01",
             "Worlds": [
                 {
                     "ID": "wrld_d10b24de-be5e-4f94-b21e-bdd3dc3783a1",
