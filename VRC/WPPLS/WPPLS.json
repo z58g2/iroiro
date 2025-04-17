@@ -3,18 +3,18 @@
     "ShowPrivateWorld": false,
     "Categorys": [
         {
-            "Category": "シャオンちゃん",
+            "Category": "00",
             "Worlds": [
                 {
-                    "ID": "wrld_fb8d2807-1174-4894-8873-785b4daa1908",
-                    "Name": "シャオンちゃん交流会会場",
+                    "ID": "wrld_30000000-0000-0000-0000-000000000000",
+                    "Name": "1KB mirror world",
                     "RecommendedCapacity": 20,
                     "Capacity": 40,
-                    "Description": "シャオンちゃん試着会兼交流会場・歴代のシャオンちゃんモデルとか三面図とかキャラデザのギャラリーつき 2021⁄08⁄06 Unity2019対応",
-                    "ReleaseStatus": "public",
+                    "Description": "Mirror world in a 1KB fileǃ 5⁄19˸ ios support․ Contributors˸ Lyuma‚ Table‚ Lamp",
+                    "ReleaseStatus": "private",
                     "Platform": {
                         "PC": true,
-                        "Android": false
+                        "Android": true
                     }              
                 },
                 {
@@ -29,7 +29,6 @@
                         "Android": false
                     }
                 },
-                ...
             ]
         },
         {
@@ -47,9 +46,7 @@
                         "Android": false
                     },
                 },
-                ...
              ]
         },
-        ...
     ]
 }
