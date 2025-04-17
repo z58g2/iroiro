@@ -32,14 +32,14 @@
             ]
         },
         {
-            "Category": "01",
+            "Category": "ポータルワールド",
             "Worlds": [
                 {
-                    "ID": "wrld_d10b24de-be5e-4f94-b21e-bdd3dc3783a1",
-                    "Name": "Sapphy 1st Anniversary 会場",
-                    "RecommendedCapacity": 30,
-                    "Capacity": 60,
-                    "Description": "サフィーちゃん誕生日会、兼、フォトコンテスト掲載Worldです。まだテスト中。",
+                    "ID": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832",
+                    "Name": "［JP］ USiOPORT ウシヲポート",
+                    "RecommendedCapacity": 20,
+                    "Capacity": 40,
+                    "Description": "日本語対応Portal Worldです。",
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
