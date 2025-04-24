@@ -48,5 +48,34 @@
                 },
              ]
         },
+        {
+            "Category": "ほげたろうセレクションズ",
+            "Worlds": [
+		 {
+                    "ID": "wrld_a61cdabe-1218-4287-9ffc-2a4d1414e5bd",
+                    "Name": "Terrors of Nowhere",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 16,
+                    "Description": "Terrorsから逃げながら、エンケファリンを集めてアイテムを購入し、生存率を上げるのを目的としたゲームワールドです。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+                {
+                    "ID": "wrld_29917391-8f96-4fd3-b65b-cf4d2f125160",
+                    "Name": "凍空の夜想曲",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "白のカーネーションの花言葉は「尊敬」「私の愛情は生きている」。 いい言葉だけど存命中の人に贈ることは避けた方が吉とのこと。 BGM˸カフェの雨音。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+            ]
+        },
     ]
 }
