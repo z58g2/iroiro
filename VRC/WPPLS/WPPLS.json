@@ -1,158 +1,266 @@
 {
-    "ReverseCategorys": false,
-    "ShowPrivateWorld": false,
-    "Categorys": [
+  "ReverseCategorys": false,
+  "ShowPrivateWorld": false,
+  "Categorys": [
+    {
+      "Category": "お気に入り【すこやかに】",
+      "Worlds": [
         {
-            "Category": "00",
-            "Worlds": [
-                {
-                    "ID": "wrld_30000000-0000-0000-0000-000000000000",
-                    "Name": "1KB mirror world",
-                    "RecommendedCapacity": 20,
-                    "Capacity": 40,
-                    "Description": "Mirror world in a 1KB fileǃ 5⁄19˸ ios support․ Contributors˸ Lyuma‚ Table‚ Lamp",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true
-                    }              
-                },
-                {
-                    "ID": "wrld_88524b47-aedc-4bf1-900b-b0d1c5d670ea",
-                    "Name": "QDevWorld",
-                    "RecommendedCapacity": 1,
-                    "Capacity": 1,
-                    "Description": "quest development world",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true
-                    }
-                }
-            ]
+          "ID": "wrld_30000000-0000-0000-0000-000000000000",
+          "Name": "1KB mirror world",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "Mirror world in a 1KB fileǃ 5⁄19˸ ios support․ Contributors˸ Lyuma‚ Table‚ Lamp",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          }
         },
         {
-            "Category": "ポータルワールド",
-            "Worlds": [
-                {
-                    "ID": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832",
-                    "Name": "［JP］ USiOPORT ウシヲポート",
-                    "RecommendedCapacity": 20,
-                    "Capacity": 40,
-                    "Description": "日本語対応Portal Worldです。",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
+          "ID": "wrld_44fea4a8-95a2-4bcb-bd58-487bac7eb822",
+          "Name": "ゆるふわVR囲碁交流会4․0 ［VRGO］",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "VRで囲碁を遊べる空間です",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          }
         },
         {
-            "Category": "ほげたろうセレクションズ",
-            "Worlds": [
-                {
-                    "ID": "wrld_a61cdabe-1218-4287-9ffc-2a4d1414e5bd",
-                    "Name": "Terrors of Nowhere",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 16,
-                    "Description": "Terrorsから逃げながら、エンケファリンを集めてアイテムを購入し、生存率を上げるのを目的としたゲームワールドです。",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                },
-                {
-                    "ID": "wrld_29917391-8f96-4fd3-b65b-cf4d2f125160",
-                    "Name": "凍空の夜想曲",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "白のカーネーションの花言葉は「尊敬」「私の愛情は生きている」。 いい言葉だけど存命中の人に贈ることは避けた方が吉とのこと。 BGM˸カフェの雨音。",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true
-                    }              
-                }
-            ]
+          "ID": "wrld_4e8910cf-daf7-4541-af07-0519eec57965",
+          "Name": "VRC将棋集会場 ⁄ VRC Shogi Club",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "将棋指したい人向けのワールド、タグマーカーと観戦部屋があります 将棋交流会イベント会場、将棋交流会隔週開催日しております",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          }
         },
         {
-            "Category": "kanipan",
-            "Worlds": [
-                {
-                    "ID": "wrld_0fa78b41-9df7-4c77-9a34-504c928684ae",
-                    "Name": "お彼岸",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "お彼岸をイメージしたワールドです。 BGM˸思い出は引き出しの中／written by˸もっぴーさうんど 様",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": true
-                    }              
-                },
-                {
-                    "ID": "wrld_32bfc2f2-724e-4875-ba56-0f2a175970b6",
-                    "Name": "Eccentric Rooms",
-                    "RecommendedCapacity": 15,
-                    "Capacity": 30,
-                    "Description": "仮想現実ならではのことが体験できるワールドです",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                },
-                {
-                    "ID": "wrld_aa79218d-57fd-4c8d-a5ee-79f4014047c0",
-                    "Name": "SoundLab",
-                    "RecommendedCapacity": 16,
-                    "Capacity": 32,
-                    "Description": "音響システムWavePathSystemとその他技術検証ワールドです。音の位置や反響をよりリアルに再現し、聞く位置や環境によって音が変化します。",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }              
-                },
-                {
-                    "ID": "wrld_d048292b-42ad-4204-9372-0103d9a46f71",
-                    "Name": "Gion Street - 祇園通り日本",
-                    "RecommendedCapacity": 80,
-                    "Capacity": 80,
-                    "Description": "今夜、祇園通りワールドにて、恒例の大晦日年越しカウントダウン花火イベントが行われます！ 今年は午前0時に星空から天の蛇が舞い降り、新年の幕開けを告げる！ 12月31日23˸59（1分前）から始まりますので、どうぞお見逃しなく！",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                },
-                {
-                    "ID": "wrld_2718702a-7d5c-4a90-b1f5-5f5253866ca9",
-                    "Name": "Gallery 2718702a",
-                    "RecommendedCapacity": 40,
-                    "Capacity": 40,
-                    "Description": "常設展「額縁の庇護を逃れて」",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                },
-                {
-                    "ID": "wrld_b526c3e0-7c32-4774-931e-5dcbdd125794",
-                    "Name": "Shader Fes 2021",
-                    "RecommendedCapacity": 40,
-                    "Capacity": 80,
-                    "Description": "様々なクリエイターによる200以上のシェーダー作品を展示しています。More than 200 shader works are on display․",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }
-            ]
+          "ID": "wrld_e0434a34-2f64-4e89-99da-8e3b4a86ffe4",
+          "Name": "VR Chess",
+          "RecommendedCapacity": 24,
+          "Capacity": 48,
+          "Description": "A place where we check'mate'‚ if you find any bugs‚ please report them at our discord․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          }
+        },
+        {
+          "ID": "wrld_a3e9ca8e-5d52-49dc-9fe3-3517efdc0ed7",
+          "Name": "オセロBAR",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "棋譜付きオセロ、三面（1vs3〉オセロ、一色オセロ、隠し部屋には等身大オセロ、が遊べるワールドです オセロが強くなる動画を100本以上まとめてあります パブリックで建ててオセロの輪を広げましょう！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          }
+        },
+        {
+          "ID": "wrld_a68a2924-fb2c-4860-adef-d687853e4b79",
+          "Name": "すーはー式ごいた",
+          "RecommendedCapacity": 25,
+          "Capacity": 50,
+          "Description": "石川県能登発祥の伝統的ボードゲーム「ごいた」が遊べるワールドです！VR、デスクトップ両方でプレイしやすいように、手で駒を打つモードとUseで駒を打つモードを選べるようにしてあります。日本ごいた協会認定になりました！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          }
+        },
+        {
+          "ID": "wrld_c7860c60-5ed3-4f67-9c5f-263b193eda31",
+          "Name": "しょ碁ス ShoGoSs 暫定版",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "先手５五ポ後手４五ポ先手４四ポ（アンパッサン）ニポにより後手勝ち",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          }
+        },
+        {
+          "ID": "wrld_0c2fcccc-a77c-4649-8ba3-182729d4c208",
+          "Name": "麻雀 緑一色 ⁄ Just Riichi Mah-jongg （Mahjong） Lu-Yise",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "VRC緑一色 は軽量で快適な麻雀ワールドです。改変した全自動麻雀卓「青空麻雀」を8卓設置。三麻対応、二麻もあったりします。Android（Quest）やデスクトップでもプレイ可能。牌譜検討機能もあります。配信、イベント、大会使用はご自由にどうぞ！それらに役立つギミックもあります。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          }
+        },
+        {
+          "ID": "wrld_2f4de19b-0332-4a80-aa54-5071dcdea2db",
+          "Name": "Stella poker room",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "10種類のポーカーゲームが遊べます。教えたい時用の別テーブルもあります。 この雰囲気でポーカーしたい、初心者導入に使いたい、ここでしか遊べないStudやPLO8などを楽しみたい等、ご自由にお使いください。 NLHE‚FLHE‚PLO‚PLO8‚FLO8‚STUD‚RAZZ‚STUD8‚5card PLO‚H․O․R․S․E․ Ver․1․30․6",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          }
+        },
+        {
+          "ID": "wrld_2de8eba1-09a7-441f-a544-58bf783f5195",
+          "Name": "串カツ神経衰弱",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "串カツで神経衰弱をする高難易度なゲームワールドです。 同じ具材でも画像が異なります。 オモコロチャンネルの串カツ神経衰弱をやりたくて作りました。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          }
         }
-    ]
+      ]
+    },
+    {
+      "Category": "ポータルワールド【すこやかに】",
+      "Worlds": [
+        {
+          "ID": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832",
+          "Name": "［JP］ USiOPORT ウシヲポート",
+          "RecommendedCapacity": 20,
+          "Capacity": 40,
+          "Description": "日本語対応Portal Worldです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_0116a019-a276-4578-ab65-8cbb513f8b35",
+          "Name": "Portal Index -01382025-",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "Tag base search system for world portals; Amount of world˸ 1085 Update every monthǃ",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          }
+        }
+      ]
+    },
+    {
+      "Category": "ほげたろうセレクションズ【ほげたろう】",
+      "Worlds": [
+        {
+          "ID": "wrld_a61cdabe-1218-4287-9ffc-2a4d1414e5bd",
+          "Name": "Terrors of Nowhere",
+          "RecommendedCapacity": 16,
+          "Capacity": 16,
+          "Description": "Terrorsから逃げながら、エンケファリンを集めてアイテムを購入し、生存率を上げるのを目的としたゲームワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_29917391-8f96-4fd3-b65b-cf4d2f125160",
+          "Name": "凍空の夜想曲",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "白のカーネーションの花言葉は「尊敬」「私の愛情は生きている」。 いい言葉だけど存命中の人に贈ることは避けた方が吉とのこと。 BGM˸カフェの雨音。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          }
+        }
+      ]
+    },
+    {
+      "Category": "kanipan【かにぱん】",
+      "Worlds": [
+        {
+          "ID": "wrld_0fa78b41-9df7-4c77-9a34-504c928684ae",
+          "Name": "お彼岸",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "お彼岸をイメージしたワールドです。 BGM˸思い出は引き出しの中／written by˸もっぴーさうんど 様",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          }
+        },
+        {
+          "ID": "wrld_32bfc2f2-724e-4875-ba56-0f2a175970b6",
+          "Name": "Eccentric Rooms",
+          "RecommendedCapacity": 15,
+          "Capacity": 30,
+          "Description": "仮想現実ならではのことが体験できるワールドです",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_aa79218d-57fd-4c8d-a5ee-79f4014047c0",
+          "Name": "SoundLab",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "音響システムWavePathSystemとその他技術検証ワールドです。音の位置や反響をよりリアルに再現し、聞く位置や環境によって音が変化します。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_d048292b-42ad-4204-9372-0103d9a46f71",
+          "Name": "Gion Street - 祇園通り日本",
+          "RecommendedCapacity": 80,
+          "Capacity": 80,
+          "Description": "今夜、祇園通りワールドにて、恒例の大晦日年越しカウントダウン花火イベントが行われます！ 今年は午前0時に星空から天の蛇が舞い降り、新年の幕開けを告げる！ 12月31日23˸59（1分前）から始まりますので、どうぞお見逃しなく！",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_2718702a-7d5c-4a90-b1f5-5f5253866ca9",
+          "Name": "Gallery 2718702a",
+          "RecommendedCapacity": 40,
+          "Capacity": 40,
+          "Description": "常設展「額縁の庇護を逃れて」",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_b526c3e0-7c32-4774-931e-5dcbdd125794",
+          "Name": "Shader Fes 2021",
+          "RecommendedCapacity": 40,
+          "Capacity": 80,
+          "Description": "様々なクリエイターによる200以上のシェーダー作品を展示しています。More than 200 shader works are on display․",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        }
+      ]
+    }
+  ]
 }
