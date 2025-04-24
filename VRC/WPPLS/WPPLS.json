@@ -113,7 +113,8 @@
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
-                        "Android": false                    }              
+                        "Android": false
+                    }              
                 },
                 {
                     "ID": "wrld_32bfc2f2-724e-4875-ba56-0f2a175970b6",
@@ -136,7 +137,8 @@
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
-                        "Android": false                    }
+                        "Android": false
+                    }
                 }, 
 　　　　　　　　{
                     "ID": "wrld_2718702a-7d5c-4a90-b1f5-5f5253866ca9",
@@ -147,7 +149,8 @@
                     "ReleaseStatus": "public",
                     "Platform": {
                         "PC": true,
-                        "Android": false                    }
+                        "Android": false
+                    }
                 }, 
 　　　　　　　　{
                     "ID": "wrld_b526c3e0-7c32-4774-931e-5dcbdd125794",
@@ -159,10 +162,8 @@
                     "Platform": {
                         "PC": true,
                         "Android": false
-
                     }
                 },
-
             ]
         },
     ]
