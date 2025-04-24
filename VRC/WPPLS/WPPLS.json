@@ -77,5 +77,47 @@
                 },
             ]
         },
+        {
+            "Category": "kanipan",
+            "Worlds": [
+                {
+                    "ID": "wrld_0fa78b41-9df7-4c77-9a34-504c928684ae",
+                    "Name": "お彼岸",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "お彼岸をイメージしたワールドです。 BGM˸思い出は引き出しの中／written by˸もっぴーさうんど 様",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }              
+                },
+                {
+                    "ID": "wrld_32bfc2f2-724e-4875-ba56-0f2a175970b6",
+                    "Name": "Eccentric Rooms",
+                    "RecommendedCapacity": 15,
+                    "Capacity": 30,
+                    "Description": "仮想現実ならではのことが体験できるワールドです",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                }, 
+　　　　　　　　{
+                    "ID": "wrld_aa79218d-57fd-4c8d-a5ee-79f4014047c0",
+                    "Name": "SoundLab",
+                    "RecommendedCapacity": 16,
+                    "Capacity": 32,
+                    "Description": "音響システムWavePathSystemとその他技術検証ワールドです。音の位置や反響をよりリアルに再現し、聞く位置や環境によって音が変化します。",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": false
+                    }
+                },
+
+            ]
+        },
     ]
 }
