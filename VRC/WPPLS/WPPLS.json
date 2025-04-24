@@ -28,7 +28,7 @@
                         "PC": true,
                         "Android": true
                     }
-                },
+                }
             ]
         },
         {
@@ -44,14 +44,14 @@
                     "Platform": {
                         "PC": true,
                         "Android": false
-                    },
-                },
-             ]
+                    }
+                }
+            ]
         },
         {
             "Category": "ほげたろうセレクションズ",
             "Worlds": [
-		 {
+                {
                     "ID": "wrld_a61cdabe-1218-4287-9ffc-2a4d1414e5bd",
                     "Name": "Terrors of Nowhere",
                     "RecommendedCapacity": 16,
@@ -74,7 +74,7 @@
                         "PC": true,
                         "Android": true
                     }              
-                },
+                }
             ]
         },
         {
@@ -103,8 +103,8 @@
                         "PC": true,
                         "Android": false
                     }
-                }, 
-　　　　　　　　{
+                },
+                {
                     "ID": "wrld_aa79218d-57fd-4c8d-a5ee-79f4014047c0",
                     "Name": "SoundLab",
                     "RecommendedCapacity": 16,
@@ -117,18 +117,6 @@
                     }              
                 },
                 {
-                    "ID": "wrld_32bfc2f2-724e-4875-ba56-0f2a175970b6",
-                    "Name": "Eccentric Rooms",
-                    "RecommendedCapacity": 15,
-                    "Capacity": 30,
-                    "Description": "仮想現実ならではのことが体験できるワールドです",
-                    "ReleaseStatus": "public",
-                    "Platform": {
-                        "PC": true,
-                        "Android": false
-                    }
-                }, 
-　　　　　　　　{
                     "ID": "wrld_d048292b-42ad-4204-9372-0103d9a46f71",
                     "Name": "Gion Street - 祇園通り日本",
                     "RecommendedCapacity": 80,
@@ -139,8 +127,8 @@
                         "PC": true,
                         "Android": false
                     }
-                }, 
-　　　　　　　　{
+                },
+                {
                     "ID": "wrld_2718702a-7d5c-4a90-b1f5-5f5253866ca9",
                     "Name": "Gallery 2718702a",
                     "RecommendedCapacity": 40,
@@ -151,8 +139,8 @@
                         "PC": true,
                         "Android": false
                     }
-                }, 
-　　　　　　　　{
+                },
+                {
                     "ID": "wrld_b526c3e0-7c32-4774-931e-5dcbdd125794",
                     "Name": "Shader Fes 2021",
                     "RecommendedCapacity": 40,
@@ -163,8 +151,8 @@
                         "PC": true,
                         "Android": false
                     }
-                },
+                }
             ]
-        },
+        }
     ]
 }
