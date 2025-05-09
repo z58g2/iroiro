@@ -147,7 +147,7 @@
           "Name": "Portal Index -01382025-",
           "RecommendedCapacity": 40,
           "Capacity": 80,
-          "Description": "Tag base search system for world portals; Amount of world˸ 1085 Update every monthǃ",
+          "Description": "Tag base search system for world portals; Amount of world˸ 1085 Update every monthǃ",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "Category": "ほげたろうセレクションズ【ほげたろう】",
+      "Category": "Hogeのおすすめワールド【ほげたろう】",
       "Worlds": [
         {
           "ID": "wrld_a61cdabe-1218-4287-9ffc-2a4d1414e5bd",
@@ -165,6 +165,42 @@
           "RecommendedCapacity": 16,
           "Capacity": 16,
           "Description": "Terrorsから逃げながら、エンケファリンを集めてアイテムを購入し、生存率を上げるのを目的としたゲームワールドです。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_b6712de0-16a7-475d-bfa5-844849276a0d",
+          "Name": "Voxel Phone",
+          "RecommendedCapacity": 20,
+          "Capacity": 32,
+          "Description": "お題をブロックで作ってそれが何かを当てるゲームです。お絵描き伝言ゲームみたいな感じ。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": true
+          }
+        },
+        {
+          "ID": "wrld_0340e2e5-e83e-49af-b7e8-942ebe45c7fb",
+          "Name": "RadDolls Pier Café",
+          "RecommendedCapacity": 16,
+          "Capacity": 20,
+          "Description": "雰囲気ジブリみたいで綺麗な所。チルとしても使える",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_c40f5112-9b89-48ee-ac04-9e21699a4d32",
+          "Name": "little dream of me",
+          "RecommendedCapacity": 8,
+          "Capacity": 16,
+          "Description": "タイプライターのあるチルワ。雰囲気が薄暗い感じになっていて写真撮影するためのワールドにも最適",
           "ReleaseStatus": "public",
           "Platform": {
             "PC": true,
@@ -181,6 +217,66 @@
           "Platform": {
             "PC": true,
             "Android": true
+          }
+        },
+        {
+          "ID": "wrld_17dae337-e8fa-49cc-af35-a3665aef7edd",
+          "Name": "Lost Ground",
+          "RecommendedCapacity": 5,
+          "Capacity": 15,
+          "Description": "壊れた世界 music˸zippy ［The Princess of Fake Moon］チルワだけど、写真撮影にも向いているワールド。BGMがワールド雰囲気にあっていてとても良い。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_8e0af02a-5fe6-4bef-b090-c80b035553c5",
+          "Name": "くまちゃんとのんびり休日",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "可愛いくまちゃんが居るチルワです。みんなで撫でましょう。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_20da5e14-2fdf-406f-b63e-ba85c634fdf1",
+          "Name": "かくれが",
+          "RecommendedCapacity": 16,
+          "Capacity": 32,
+          "Description": "ウォチパや映画を見るためのワールド。いい場所が他にあれば変更予定。「Topazchat」対応ワールドを探し中…",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_de53549a-20cf-4c6f-abea-dcda197e1e16",
+          "Name": "ORGANISM （v1․5）",
+          "RecommendedCapacity": 10,
+          "Capacity": 60,
+          "Description": "探索系で雰囲気を楽しむワールド。これを超えるものはまだ見たことがない。とても壮大なワールド。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
+          }
+        },
+        {
+          "ID": "wrld_9456049c-dc11-46a0-97b9-44934b8a4771",
+          "Name": "Derealiy",
+          "RecommendedCapacity": 8,
+          "Capacity": 32,
+          "Description": "進んでいく系の写真映えワールド。VRCにハマるきっかけになった思い出の場所。",
+          "ReleaseStatus": "public",
+          "Platform": {
+            "PC": true,
+            "Android": false
           }
         }
       ]
