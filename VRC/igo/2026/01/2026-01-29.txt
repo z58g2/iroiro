@@ -1,8 +1,0 @@
-(;GM[1]FF[4]
-SZ[9]
-GN[VRChatGoGame]
-DT[2026-01-29]
-PB[Asyusyu]
-PW[すこやかに]
-BR[--]WR[--]KM[0]HA[0]RU[Japanese]AP[TakaneGoSystem:1.0]RE[]TM[0]TC[0]TT[0]
-;B[gg];W[ee];B[cg];W[cd];B[cc];W[dc];B[ce];W[de];B[bd];W[dd];B[ec];W[bc];B[cb];W[be];B[cf];W[ad];B[ef];W[db];B[fe];W[fd];B[ge];W[gd];B[hd];W[hc];B[id];W[fc];B[af];W[bf];B[gb];W[gc];B[fb];W[eb];B[hb];W[bb];B[df];W[bg];B[bh];W[ah];B[ag];W[ae];B[ic];W[ed];B[da];W[ca];B[ga];W[ea];B[ai];W[bi];B[ch];W[ci];B[dh];W[ai];B[di];W[ag];B[tt];W[fa])
